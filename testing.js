@@ -12,7 +12,7 @@
 // Expect concatOdds([two, three,four],[5,6,7]) to return an error
 // Expect concatOdds([5,5,5], [9,3,4]) to return [3,5,9]
 // Expect concatOdds([1.3, 90, -1],[57]) to return an error
-// Expect concatOdds([---5,9],[20,6]) to return an error
+// Expect concatOdds([--5,9],[20,6]) to return an error
 
 // 3) Expectation: if the cart is empty during checkout. User should be sent an alert stating their cart is empty and prompted if they want to log into their account. Below the alert there should be links to the landing page of the main shopping categories of the website.
 //  Expect: When the user enters incorrect log in info, they should be prompted to create an account or checkout as a guest
